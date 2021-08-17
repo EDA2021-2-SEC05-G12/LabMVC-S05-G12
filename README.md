@@ -1,6 +1,7 @@
 Integrantes:
 
 Alejandro Hernández - a.hernandezo2@uniandes.edu.co - 202111716
+
 Luisa Hernández - lg.hernandezp1@uniandes.edu.co - 202114093
 
 #ISIS1225 - Estructura de un proyecto
